@@ -1,0 +1,10 @@
+.project
+.pydevproject
+*.pyc
+venv
+*.sqlite3
+staticfiles
+.env
+
+*.log.*
+*.log
